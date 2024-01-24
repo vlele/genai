@@ -15,7 +15,7 @@
 - **Large Language Models in P&C (Property & Casualty)**  
   [Watch Video](https://youtu.be/hh-mTXKLr34)
 
-- **If English is the new programming language, do we need apps? (Guacamole example)**  
+- **If English is the new programming language, do we need apps?**  
   [Watch Video](https://youtu.be/4Ogq0PLhI_g)
 
 - **Mini-Series Introduction**  
