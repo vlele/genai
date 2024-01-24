@@ -37,7 +37,7 @@
 - **Cobol2Vec: Learning Representations of Cobol code**  
   [Read Paper](https://arxiv.org/abs/2201.09448)
 
-- **Machine Learning to Software Development**  
+- **Machine Learning for Software Development**  
   [Watch Video](https://www.youtube.com/watch?v=ExhyPSzk1-8)
 
 - **What Every Developer Ought to Know About Deep Learning and Neural Networks**  
