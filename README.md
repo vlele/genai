@@ -25,6 +25,7 @@
   [Watch Video](https://youtu.be/Q9-sB2ASQ8U?si=7sO7wyMLq5mY7d1u)
 
 - **Using LLMs to Improve Healthcare Data Quality**
+  [Watch Video](https://youtu.be/EVPqLw9L4Do?si=s4td3tD2IQBb3yG9)
 
 - **Applied Large Language Models with Vishwas Lele**  
   [Listen to Podcast](https://www.dotnetrocks.com/details/1874)
@@ -48,3 +49,10 @@
 
 - **Real World Solutions on Azure Government with Machine Learning**  
   [Watch Video](https://www.youtube.com/watch?v=FsV1yjNCrRU)
+
+- **Intelligent Automation, RPA and beyond with Power Automate**  
+  [Watch Video](https://www.ais.com/pluralsight-course-intelligent-automation-with-rpa-and-power-automate/)
+  
+- **Custom Speech Service for Government**  
+  [Watch Video](https://devblogs.microsoft.com/azuregov/custom-speech-service-for-government/)
+  
